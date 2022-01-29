@@ -1,1 +1,1 @@
-# VeriTaban-Y-netim-Sistemleri
+# VeriTaban-Yonetim-Sistemleri

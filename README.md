@@ -1,1 +1,4 @@
 # VeriTaban-Yonetim-Sistemleri
+Proje tanımı: Hastane hasta kabul otomasyonu.
+Proje PostgreSQL ve C# kullanılarak yazılmıştır.
+Projenin detaylı raporu içinde bulunmaktadır.
